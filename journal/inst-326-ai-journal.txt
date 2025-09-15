@@ -1,0 +1,21 @@
+Zachary Tong
+INST326 AI Journal
+
+Week 1
+This week, I used ChatGPT to provide an example of using .find(). I was
+able to understand this Python function more, as I have not used it before.
+
+Chat Link: 
+https://chatgpt.com/c/68c77964-6008-8330-a4c4-a7bc78e7a410
+
+
+I also used another AI model, DeepSeek, to find careers related to information science,
+such as data, IT, and cybersecurity. This gave me an opportunity to look at the different
+job titles these fields offer, which was fascinating.
+
+Chat Link:
+https://chat.deepseek.com/a/chat/s/2d9c19cf-3282-495f-9ecb-985b01d18353
+
+
+
+
