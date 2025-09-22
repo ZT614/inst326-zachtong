@@ -16,6 +16,18 @@ job titles these fields offer, which was fascinating.
 Chat Link:
 https://chat.deepseek.com/a/chat/s/2d9c19cf-3282-495f-9ecb-985b01d18353
 
+Week 2
+This week, I used Google Gemini to explain finding indexes within lists. This was helpful
+for me in getting a refresher on the concept. Just for comparison's sake, I asked ChatGPT the same question. 
+I was not surprised that the AI gave pretty similar answers. Both of these models gave a broad overview
+of the concept and dove into the technical explanations.
+
+Chat Links:
+https://chatgpt.com
+https://gemini.google.com/app/c1791c342e682dac
+
+
+
 
 
 
