@@ -27,7 +27,26 @@ https://chatgpt.com
 https://gemini.google.com/app/c1791c342e682dac
 
 
+Week 3
+This week, I used ChatGPT to give me an example of tuples. I think it did a good job of
+providing a basic one and the components of a tuple. I haven't dove deep into tuples whenever 
+I learned Python in the past, so this was good to get a better understanding of the concept.
 
+I also asked ChatGPT to give me an example of the concept of docstrings. 
+I have not encountered or used docstrings before, so this was helpful
+in letting me know the benefits and when it is approriate to use them. 
+
+Chat Links:
+https://chatgpt.com/c/68d96c58-72e4-8333-a785-ca56fc91f317
+https://chatgpt.com/c/68d96ccf-75f4-8325-acb4-a327e2088926
+
+
+Outside of schoolwork, I used DeepSeek to give me a list of music recommendations to add to my
+Spotify playlists, specifically ones that focused on hip-hop because that is my favorite genre. 
+As someone who is a big music fan, the list that the AI gave me was really good. 
+It was separated by era and mood, which was interesting. Some of the albums on the list
+were ones that I have never heard from beginning to end, so that makes me excited to
+give them a listen.
 
 
 
