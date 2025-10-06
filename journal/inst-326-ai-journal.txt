@@ -49,6 +49,17 @@ were ones that I have never heard from beginning to end, so that makes me excite
 give them a listen.
 
 Week 4
-I did not use AI for this week.
+I used ChatGPT to provide me an example of a basic class. This allowed me to
+get a better understanding of what it is and how it is useful in Python.
+I liked how it went over each part of the class, so I don't get confused.
+
+I also used ChatGPT to give me ideas on functions for the team project.
+Honestly, I did not think it did a good job. Some of them were decent, but
+most of them were a bit too complicated to understand, even with the
+provided explanations. 
+
+Chat Links:
+https://chatgpt.com/c/68e334c5-ba70-8332-9e5c-949bd90b27be
+https://chatgpt.com/c/68e33756-13a4-8333-87fb-16de6398fc89
 
 
