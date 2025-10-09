@@ -63,3 +63,15 @@ https://chatgpt.com/c/68e334c5-ba70-8332-9e5c-949bd90b27be
 https://chatgpt.com/c/68e33756-13a4-8333-87fb-16de6398fc89
 
 
+Week 5
+I used Google Gemini to give me an example of encapsulation. The AI gave
+an example of a bank account. Even though it mentioned the methods that 
+were used, I thought that it didn't go super in-depth in the code. Also, 
+it did not mention which attributes should be considered private or public. 
+
+I also asked ChatGPT to explain the difference between getter and setter
+methods. This was helpful in knowing the concept in a simpler way.
+
+Chat Links:
+https://gemini.google.com/app/1842028921d0096b
+https://chatgpt.com/c/68e7d101-98f4-8326-9cc7-f79a197e16fb
