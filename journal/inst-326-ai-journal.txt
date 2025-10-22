@@ -94,4 +94,17 @@ https://chatgpt.com/c/68ec7021-3794-8329-9ff1-e5bb8cb28858
 https://chatgpt.com/c/68ec709e-e900-832c-981d-2edbbba61703
 
 
+Week 6
+I used ChatGPT to give me an example of a static method within a class.
+I have not encountered this while learning Python, so it allowed me to have
+a better understanding of how it is used.
+
+I also asked ChatGPT for the difference between static methods and class methods.
+The AI provided me with a table of the key features for each method, which was 
+helpful for me because I am a visual learner. I also liked how it provided the code
+after, so that I was able to know the strcuture of each method better.
+
+Chat Links:
+https://chatgpt.com/c/68f93632-5f98-8332-a667-9f4209e95108
+https://chatgpt.com/c/68f93719-2160-8332-9f02-c6f921574c9e
 
