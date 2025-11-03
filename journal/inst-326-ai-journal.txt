@@ -108,3 +108,25 @@ Chat Links:
 https://chatgpt.com/c/68f93632-5f98-8332-a667-9f4209e95108
 https://chatgpt.com/c/68f93719-2160-8332-9f02-c6f921574c9e
 
+
+Week 7
+I used ChatGPT to give me an example of error handling, since that was the main
+concept for this week. It gave me a divide by zero example, which was actually the
+first thing I was thinking of when I was learning this concept. I liked how it went 
+straight into the technical explanation.
+
+Outside of schoolwork, I also used ChatGPT to give me a list of movies to see
+in the theater this year. Hopefully, I can see some of them before the year
+ends.
+
+Chat Links:
+https://chatgpt.com/c/68ffe5d2-e704-8323-895c-e167f8449de2
+https://chatgpt.com/c/69003085-bdd0-8327-aba6-1795169b8976
+
+For the second project, I used ChatGPT, mainly for generating the structure for my class.
+I thought it was did a good job of making sure the methods that needed to be there were
+there, such as name or age. I made sure to modify it by removing certain methods 
+that I did not need.
+
+Project Chat Link:
+https://chatgpt.com/c/6907668e-cd28-8327-acf8-effc1ff3cc5a
