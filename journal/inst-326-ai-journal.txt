@@ -130,3 +130,19 @@ that I did not need.
 
 Project Chat Link:
 https://chatgpt.com/c/6907668e-cd28-8327-acf8-effc1ff3cc5a
+
+
+Week 8
+I used ChatGPT to give me an example of inheritance. This was a brand new concept
+for me, so I was able to get a better understanding of what it is. I liked
+that it gave me a simple example and that it went straight to the technical
+explanations.
+
+I also used ChatGPT to explain when to override methods. I thought it did a 
+good job of explaining the concept to me in a simple way, and made sure to include
+the reasons, which was helpful.
+
+Chat Links:
+https://chatgpt.com/c/690ec96d-40c0-8333-abac-5df4bd2171c7
+https://chatgpt.com/c/690f64c3-5198-832c-aa6b-5dfa8c4dedcd
+
