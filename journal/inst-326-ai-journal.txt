@@ -146,3 +146,17 @@ Chat Links:
 https://chatgpt.com/c/690ec96d-40c0-8333-abac-5df4bd2171c7
 https://chatgpt.com/c/690f64c3-5198-832c-aa6b-5dfa8c4dedcd
 
+Week 9
+I used ChatGPT to give me an example of polymorphism. I liked that it 
+provided a very simple example, without diving too deep into the technical
+aspects and just described how it works.
+
+I also used ChatGPT to explain abstract base classes. I have not come across
+this concept in my Python learning, so it was helpful for me in understanding the 
+concept better.
+
+Chat Links:
+https://chatgpt.com/c/69181927-2f64-832c-ac1e-0d2d98032e38
+https://chatgpt.com/c/69181e36-0244-8332-a708-2085b527133d
+
+
