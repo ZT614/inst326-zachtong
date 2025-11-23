@@ -160,3 +160,23 @@ https://chatgpt.com/c/69181927-2f64-832c-ac1e-0d2d98032e38
 https://chatgpt.com/c/69181e36-0244-8332-a708-2085b527133d
 
 
+Week 10
+I used ChatGPT to give me an example of composition. I thought it did
+a good job of providing one that is easy to understand and it
+helped me get a better idea of the concept.
+
+I also used ChatGPT to explain the difference between composition vs inheritance.
+Sometimes, it can be hard to distinguish, but the AI was able to clearly explain
+the two concepts.
+
+Chat Links:
+https://chatgpt.com/c/69213072-3894-8333-9d3b-bd45a3e09f29
+https://chatgpt.com/c/6921e6f7-f854-8331-b41d-4fa44600eb6f
+
+For the third project, I used ChatGPT, the same way I used it for the second
+project, which was mainly for generating a boilerplate structure for my abstract
+base classes. I made sure to modify it by adding more abstract methods and tailoring
+it to the specific functions that I needed to inherit.
+
+Project Chat Link:
+https://chatgpt.com/c/6922b4e7-1248-8333-8cad-69ca20a4e740
