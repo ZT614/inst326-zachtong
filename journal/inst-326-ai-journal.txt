@@ -180,3 +180,15 @@ it to the specific functions that I needed to inherit.
 
 Project Chat Link:
 https://chatgpt.com/c/6922b4e7-1248-8333-8cad-69ca20a4e740
+
+Week 12
+I used ChatGPT to give me an example of I/O testing. I have never gone into
+I/O testing when I learned Python in the past. I thought this was a good way
+to introduce me to the concept.
+
+I also used ChatGPT to provide ideas for I/O testing for an information retrieval
+domain. It provided ideas that were relevant and made sense.
+
+Chat Link:
+https://chatgpt.com/c/69344df2-d04c-8328-9cfd-8626249a7f77
+https://chatgpt.com/c/69344f38-b210-832d-8d8d-21a530ee88ce
