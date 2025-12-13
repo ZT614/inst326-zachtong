@@ -192,3 +192,12 @@ domain. It provided ideas that were relevant and made sense.
 Chat Link:
 https://chatgpt.com/c/69344df2-d04c-8328-9cfd-8626249a7f77
 https://chatgpt.com/c/69344f38-b210-832d-8d8d-21a530ee88ce
+
+Week 13
+For the final project, I used ChatGPT to generate sample data for I/O testing.
+I think it did a good job of going straight to the technical explanations.
+It allowed me to get a better understanding of the concept of I/O testing
+for my specific domain.
+
+Project Chat Link:
+https://chatgpt.com/c/693d84d3-7f2c-8326-9d70-f22c79c8c43b
